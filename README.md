@@ -5,7 +5,7 @@ This is the front-end of a native mobile camera app that allows the user to take
 ## Technologies Used
 * Python
 * TensorFlow
-* Google Cloud
+* Google Cloud Platform
 * Flask
 * Beautiful Soup
 * Kaggle
