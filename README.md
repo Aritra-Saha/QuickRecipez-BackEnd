@@ -20,5 +20,7 @@ We learned how to use the TensorFlow Object Detection API and how to train a Ten
 * Parsing the Kaggle Dataset
 * Sleep deprivation
 * Bridging the front-end and back-end
+## Front End
+https://github.com/Aritra-Saha/QuickRecipez-FrontEnd
 ## Video Demo
 https://www.youtube.com/watch?v=xJOzarCUzGk&feature=youtu.be&ab_channel=AritraBanik
