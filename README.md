@@ -21,3 +21,4 @@ We learned how to use the TensorFlow Object Detection API and how to train a Ten
 * Sleep deprivation
 * Bridging the front-end and back-end
 ## Video Demo
+https://www.youtube.com/watch?v=xJOzarCUzGk&feature=youtu.be&ab_channel=AritraBanik
